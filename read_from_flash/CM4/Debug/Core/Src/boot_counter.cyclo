@@ -1,0 +1,2 @@
+../Core/Src/boot_counter.c:8:10:BootCounter_Read	1
+../Core/Src/boot_counter.c:18:19:BootCounter_Write	2

@@ -1,0 +1,2 @@
+../Core/Src/data_rtc_processing.c:9:6:Parse_And_Set_RTC	88	static
+../Core/Src/data_rtc_processing.c:69:6:Received_Ack_Uart_Message	16	static
